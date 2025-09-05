@@ -8,6 +8,14 @@
   },
   "private": true,
   "dependencies": {
-    "numbro": "1.11.0"
+    "jquery-treetable": "3.2.0-1"
+  },
+
+  "optionalDependencies": {
+    "@lmdb/lmdb-darwin-x64": "3.0.13",
+    "@lmdb/lmdb-linux-arm": "3.0.13",
+    "@lmdb/lmdb-linux-arm64": "3.0.13",
+    "@lmdb/lmdb-linux-x64": "3.0.13",
+    "@lmdb/lmdb-win32-x64": "3.0.13"
   }
 }
