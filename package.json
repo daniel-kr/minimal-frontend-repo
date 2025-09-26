@@ -8,6 +8,6 @@
   },
   "private": true,
   "dependencies": {
-    "numbro": "1.11.0"
+    "@babel/code-frame": "7.10.4"
   }
 }
