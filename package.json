@@ -8,6 +8,6 @@
   },
   "private": true,
   "dependencies": {
-    "@babel/code-frame": "7.10.4"
+    "styled-components": "^5.1.1"
   }
 }
